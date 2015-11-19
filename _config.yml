@@ -1,0 +1,27 @@
+# Site settings
+title: BPR BKK
+header-img: images/bprbkk_blog.jpg
+email: admin@bprbkk.com
+description: >
+  BPRBKK atau PD. BPR BKK Kab. Wonogiri merupakan Bank Perkreditan Rakyat
+  milik Pemprov Jawa Tengah dan Pemda Kabupaten Wonogiri.
+baseurl: ""
+url: "http://www.bprbkk.co.id"
+
+
+# Build settings
+markdown: kramdown
+
+paginate: 8
+paginate_path: news/page:num/
+
+assets:
+  sources:
+    - _assets/stylesheets
+    - _assets/javascripts
+
+  css_compressor: sass
+  js_compressor:  uglifier
+  cache:          true
+  cachebust: hard
+production: false
