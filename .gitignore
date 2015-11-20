@@ -1,11 +1,4 @@
-# Ignore Jekyll generated files
-_site
 
-# Ignore caches and logs
-.sass-cache
-_asset_bundler_cache/
-.jekyll-assets-cache/
-_site
 Gemfile.lock
 .ruby-version
 
