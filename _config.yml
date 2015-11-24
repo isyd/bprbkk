@@ -19,9 +19,3 @@ paginate_path: news/page:num/
 sass:
   sass_dir: assets/css
   style: :compressed
-
-  css_compressor: sass
-  js_compressor:  uglifier
-  cache:          true
-  cachebust: hard
-production: false
