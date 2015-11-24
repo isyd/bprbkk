@@ -18,8 +18,8 @@ paginate_path: news/page:num/
 
 sass:
   sources:
-    - _assets/stylesheets
-    - _assets/javascripts
+    - _assets/css
+    - _assets/js
 
   css_compressor: sass
   js_compressor:  uglifier
