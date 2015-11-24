@@ -4,17 +4,17 @@ layout: about
 
 ## BPRBKK
 
-Selamat berkunjung di situs [BPRBKK](http://www.bprbkk.co.id/), BPRBKK atau PD. BPR BKK WONOGIRI merupakan suatu lembaga keuangan di kabupaten Wonogiri yang bergerak dalam bidang Perbankan dengan kegiatan usaha sebagai BPR, menghimpun dan menyalurkan dana dari dan untuk masyarakat sesuai dengan undang-undang No.10 tahun 1998 tentang Perbankan.
+Selamat berkunjung di situs [PD BPR BKK WONOGIRI](http://www.bprbkk.co.id/) merupakan lembaga keuangan di Kabupaten Wonogiri yang bergerak dalam bidang Perbankan dengan kegiatan usaha sebagai BPR, menghimpun dan menyalurkan dana dari dan untuk masyarakat sesuai dengan undang-undang No.10 tahun 1998 tentang Perbankan.
 
 ## PD. BPR BKK Wonogiri
 
-PD. BPR BKK Wonogiri adalah hasil merger 12 PD. BPR – BKK yang berada di Kabupaten Wonogiri berdasarkan Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha ( Merger ) dan Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha ( merger ) PD. BPR BKK WONOGIRI hasil merger mulai beroperasi pada tanggal 2 Januari 2006 dan diresmikan oleh Gubernur Jawa Tengah pada tanggal 18 Januari 2006.
+PD BPR BKK Wonogiri adalah hasil merger 12 PD. BPR – BKK yang berada di Kabupaten Wonogiri berdasarkan Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha ( Merger ) dan Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha ( merger ) PD. BPR BKK WONOGIRI hasil merger mulai beroperasi pada tanggal 2 Januari 2006 dan diresmikan oleh Gubernur Jawa Tengah pada tanggal 18 Januari 2006.
 
-Upaya BPRBKK mewujudkan kinerja sesuai dengan nama yang disandangnya, PD. BPR BKK Wonogiri selalu berpegang pada azas keterbukaan dan kehati-hatian. Didukung oleh beragam produk dan fasilitas perbankan terkini, PD. BPR BKK Wonogiri Kota terus tumbuh dan berkembang hingga saat ini memiliki 15 jaringan kerja dengan komposisi: 12 kantor cabang, 3 kantor kasyang tersebar di Kabupaten Wonogiri.
+Upaya BPRBKK mewujudkan kinerja sesuai dengan nama yang disandangnya, PD BPR BKK Wonogiri selalu berpegang pada azas keterbukaan dan kehati-hatian. Didukung oleh beragam produk dan fasilitas perbankan terkini, PD. BPR BKK Wonogiri Kota terus tumbuh dan berkembang hingga saat ini memiliki 15 jaringan kerja dengan komposisi: 12 kantor cabang, 3 kantor kasyang tersebar di Kabupaten Wonogiri.
 
 ## Visi Misi
 
-Dengan sikap profesionalisme yang melandasi kegiatan operasionalnya, PD. BPR BKK Wonogiri hadir untuk mencapai visi menjadi “MENJADI BANK YANG SEHAT, BESAR, MANDIRI DAN MAMPU BERSAING”
+Dengan sikap profesionalisme yang melandasi kegiatan operasionalnya, PD BPR BKK Wonogiri hadir untuk mencapai visi menjadi “MENJADI BANK YANG SEHAT, BESAR, MANDIRI DAN MAMPU BERSAING”
 
 ### Visi:
 
@@ -29,7 +29,7 @@ Menjadi bank yang sehat, besar, mandiri dan mampu bersaing.
 
 ## Legalitas:
 
-PD. BPR BKK WONOGIRI, saat ini adalah hasil penggabungan usaha ( MERGER ) dari 12 ( dua belas) PD.BPR BKK di Kabupaten Wonogiri berdasarkan legalitas sebagai berikut :
+PD BPR BKK WONOGIRI, saat ini adalah hasil penggabungan usaha ( MERGER ) dari 12 ( dua belas) PD.BPR BKK di Kabupaten Wonogiri berdasarkan legalitas sebagai berikut :
 
 1. Keputusan Deputi Gubernur Bank Indonesia No. 7/17/KEP.DpG/2005 tanggal 8 Desember 2005, tentang pemberian izin penggabungan Usaha ( Merger );
 2. Keputusan Gubernur Jawa Tengah Nomor 503/78/2005 tanggal 30 Desember 2005, tentang persetujuan izin Penggabungan Usaha ( merger );
