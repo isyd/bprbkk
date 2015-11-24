@@ -18,4 +18,4 @@ paginate_path: news/page:num/
 
 sass:
   sass_dir: assets
-  style: :compressed
+  style: compressed
