@@ -16,10 +16,9 @@ permalink: pretty
 paginate: 8
 paginate_path: news/page:num/
 
-assets:
-  sources:
-    - _assets/css
-    - _assets/js
+sass:
+  sass_dir: assets/css
+  style: :compressed
 
   css_compressor: sass
   js_compressor:  uglifier
