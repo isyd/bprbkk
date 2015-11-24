@@ -13,8 +13,8 @@ layout: staff
 		<h1>Staff Managemen <span>PD BPR BKK Wonogiri</span></h1>
 		<nav class="bprbkk-staff">
 			<a href="#dewan-pengawas">Pengawas</a>
-			<a href="#skai">SKAI</a>
 			<a href="#direksi">Direksi</a>
+			<a href="#skai">SKAI</a>
 			<a href="#kepala-bidang">Kabid</a>
 		</nav>
 	</header>
