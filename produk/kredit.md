@@ -21,7 +21,7 @@ Fasilitas kredit s/d Rp.750 juta yang diberikan untuk usaha produktif dalam bent
 
 - Proses lebih cepat dengan persyaratan mudah;
 - Suku bunga bersaing dengan jangka waktu hingga 10 tahun;
-- Plafond hingga maksimal Rp.7,5 juta;
+- Plafond hingga maksimal Rp.750 juta;
 
 ## Kredit Profesi
 
@@ -61,7 +61,7 @@ Fasilitas kredit yang diberikan untuk usaha produktif dalam bentuk kredit modal 
 
 - Proses lebih cepat dengan persyaratan mudah;
 - Suku bunga bersaing dengan jangka waktu hingga 3 tahun;
-- Plafond hingga maksimal Rp.7,5 juta;
+- Plafond hingga maksimal Rp.750 juta;
 - Dapat take over dari bank lain.
 
 ## Kredit Pundi
@@ -103,7 +103,7 @@ Fasilitas kredit yang diberikan untuk usaha produktif dalam bentuk kredit modal 
 
 - Proses lebih cepat dengan persyaratan mudah;
 - Suku bunga bersaing dengan jangka waktu hingga 2 tahun;
-- Plafond hingga maksimal Rp.7,5 juta;
+- Plafond hingga maksimal Rp.750 juta;
 
 ## Kredit Badan Usaha
 
