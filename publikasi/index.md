@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Publikasi BPRBKK
-description: "Transparansi Kesehatan Perbankan PD. BPR BKK"
+description: "Transparansi Kesehatan Bank PD BPR BKK WONOGIRI"
 header-img: "images/publikasi.jpg"
 ---
 
 ## Tahun 2015
 
-| Triwulan Ke:	| Tanggal | File Download |
+| Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2015				| [Download](/publikasi/2015/20150330.pdf)
 II				| 2015				| [Download](/publikasi/2015/20150630.pdf)
@@ -16,7 +16,7 @@ IV				| 2015				| [Download](/publikasi/2015/file_file.pdf)
 
 ## Tahun 2014
 
-| Triwulan Ke:	| Tanggal | File Download |
+| Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2014				| [Download](/publikasi/2014/20140331.pdf)
 II				| 2014				| [Download](/publikasi/2014/20140630.pdf)
@@ -25,7 +25,7 @@ IV				| 2014				| [Download](/publikasi/2014/20141231.pdf)
 
 ## Tahun 2013
 
-| Triwulan Ke:	| Tanggal | File Download |
+| Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2013				| [Download](/publikasi/2013/20130331.pdf)
 II				| 2013				| [Download](/publikasi/2013/20130630.pdf)
@@ -34,7 +34,7 @@ IV				| 2013				| [Download](/publikasi/2013/20131231.pdf)
 
 ## Tahun 2012
 
-| Triwulan Ke:	| Tanggal | File Download |
+| Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2012				| [Download](/publikasi/2012/20120331.pdf)
 II				| 2012				| [Download](/publikasi/2012/20120630.pdf)
